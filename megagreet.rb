@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!ruby
 
 class MegaGreeter
     attr_accessor :names
